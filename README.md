@@ -1,0 +1,2 @@
+# OllamaCap
+Alfred 🧑‍🤝‍🧑 Ollama
